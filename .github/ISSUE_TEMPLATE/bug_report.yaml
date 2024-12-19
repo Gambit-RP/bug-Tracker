@@ -1,7 +1,7 @@
-name: "\U0001F4A5 Отчет об ошибке"              
-title: "\U0001F4A5 [Bug]: "
+name: "\U0001F4BB Ошибка в лаунчере"              
+title: "\U0001F4BB [Launcher]: "
 description: Create a report.
-labels: ["💡 Bug"]
+labels: ["💻 Launcher"]
 
 body:
 #  - type: markdown
